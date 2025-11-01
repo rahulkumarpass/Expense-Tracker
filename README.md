@@ -1,5 +1,5 @@
 1. npm install
-2. npm start
+2. npm dev run
 <img width="1908" height="897" alt="Screenshot 2025-11-01 222655" src="https://github.com/user-attachments/assets/9949fede-c228-4d55-b015-815e4e837997" />
 
    <img width="1118" height="562" alt="Screenshot 2025-11-01 222755" src="https://github.com/user-attachments/assets/7f5eac5c-2107-4af8-bd1b-10096f0aec08" />
